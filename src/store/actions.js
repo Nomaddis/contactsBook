@@ -1,0 +1,4 @@
+export const ADD_PERSON = 'ADD_PERSON';
+export const GET_ALL_CONTACTS = 'GET_ALL_CONTACTS';
+export const REORDER_ALL_CONTACTS = 'REORDER_ALL_CONTACTS';
+export const EDIT_PERSON = 'EDIT_PERSON';
